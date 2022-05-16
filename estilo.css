@@ -6,7 +6,7 @@ html{
 }
 
 body{
-    background: #ccc url(https://www.cssauthor.com/wp-content/uploads/2013/07/Blurred-Background_2.jpg) center top no-repeat;
+    background: rgb(33, 69, 104) url(https://s.yimg.com/uu/api/res/1.2/LWubjNhMPkPItpV0ZDXS1A--~B/aD03MjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/esquire_253/0598f3005d7a3136c878480292a2a94a) center top no-repeat;
     background-size: 100%;
     background-attachment: fixed;
 }
@@ -23,7 +23,7 @@ img{
 
 .principal{
     width: 960px;
-    color:  #444;
+    color:  rgb(0, 0, 0);
     margin: 0 auto;
     font-family: sans-serif;
 }
@@ -61,7 +61,7 @@ img{
 }
 
 .menu{
-    background: #125103;
+    background: #11006e;
 }
 
 .menu ul li,
